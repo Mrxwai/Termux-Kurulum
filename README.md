@@ -1,5 +1,16 @@
 Kurulum :
 
-1- pkg install python python2 -y
-2- pip install colorama
-3- python kurulum.py
+pkg install git -y
+
+pkg install python python2 -y
+
+pip install colorama
+
+git clone https://github.com/Mrxwai/kurulum
+
+cd kurulum
+
+chmod +x *
+
+python kurulum.py
+

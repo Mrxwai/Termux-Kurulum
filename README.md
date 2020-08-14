@@ -6,9 +6,9 @@ pkg install python python2 -y
 
 pip install colorama
 
-git clone https://github.com/Mrxwai/kurulum
+git clone https://github.com/Mrxwai/Termux-Kurulum
 
-cd kurulum
+cd Termux-Kurulum
 
 chmod +x *
 
